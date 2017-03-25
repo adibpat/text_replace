@@ -4,7 +4,7 @@ Text Replace :
 
     USAGE :
 
-        python replace_text <path> <pattern_from> <pattern_to>
+        python text_replace <path> <pattern_from> <pattern_to>
 
         Arguments less that the above will return "Insufficient Arguments" error
 
