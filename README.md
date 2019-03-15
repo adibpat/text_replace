@@ -8,6 +8,6 @@ Text Replace :
 
         Arguments less that the above will return "Insufficient Arguments" error
 
-    Any improvements or suggestions are welcome!
+    Improvements or suggestions are welcome!
 
     
